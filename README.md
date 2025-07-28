@@ -27,6 +27,4 @@ This project uses real-world crime data from Los Angeles (2020–2024) to analyz
 - Identification of high-crime areas and most common crime types.
 - Evaluation metrics provided for model performance.
 
-## 📁 Files Included
-- `Crime Hotspot (1).ipynb` – Main notebook for data analysis and modeling.
-- `CRIME HOTSPOT DETECTION.pptx` – Summary presentation of the findings.
+
